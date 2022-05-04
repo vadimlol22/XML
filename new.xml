@@ -1,3 +1,11 @@
 <?xml version='1.0' encoding="UTF-8"?>
 <root>
-	<my>
+	<about_me>
+		<last_name>Kruhlikov</last_name>
+		<first_name>Vadim</first_name>
+		<middle_name>Yurevich</middle_name>
+		<age>22</age>
+		<home_animals>0</home_animals>
+		<salary>1500$</salary>
+	</about_me>
+</root>
